@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nathax7&repo=minishell&description_lines_count=3&hide_border=true&border_radius=5.5&theme=rose_pine)](https://github.com/nagaudey/minishell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nagaudey&repo=minishell&description_lines_count=3&hide_border=true&border_radius=5.5&theme=rose_pine)](https://github.com/nagaudey/minishell)
 
 ---
 
